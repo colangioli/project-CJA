@@ -1,3 +1,4 @@
+#program calculates the mean
 # Program calculate the mean
 import sys
 
