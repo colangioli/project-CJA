@@ -6,8 +6,8 @@ sum = 0
 n = 0
 # This line indicates that your partner has been here
 
-for number in sys.stdin:
-   sum += float(number)
+for num in sys.stdin:
+   sum += float(num)
    n += 1
 
 print "the mean is", (sum / n)
