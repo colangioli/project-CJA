@@ -4,9 +4,10 @@ import sys
 
 sum = 0
 n = 0
-# This line indicates that your partner has been here.
-for numberLine in sys.stdin:
-   sum += float(numberLine)
+# This line indicates that your partner has been here
+
+for number in sys.stdin:
+   sum += float(number)
    n += 1
 
 print "the mean is", (sum / n)
