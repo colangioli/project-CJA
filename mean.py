@@ -1,3 +1,4 @@
+# Program calculate the mean
 import sys
 
 sum = 0
